@@ -47,14 +47,10 @@ OPENAI_API_KEY=your_openai_api_key
 streamlit run app.py
 ```
 
-## 📦 API Keys
+## 📦 APIs Used
 
 - [Finnhub API](https://finnhub.io/)
 - [OpenAI API](https://platform.openai.com/account/api-keys)
-
-## 🖼 Screenshot
-
-*(Optional: add a screenshot of the dashboard here)*
 
 ## 📄 License
 
